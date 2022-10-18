@@ -1,1 +1,11 @@
 # basketball.html
+![nets-vs-heat](https://user-images.githubusercontent.com/113164756/196459865-0682ada7-bf25-45e8-9f57-7fb6af8552c5.jpg)
+![nets-vs-76ers](https://user-images.githubusercontent.com/113164756/196459877-c22e9f95-b08e-4b12-91c3-0adafaa98dce.jpg)
+![nets](https://user-images.githubusercontent.com/113164756/196459886-bb83153a-3907-40b4-901f-10d7652b2af5.png)
+![knicks-vs-pistons](https://user-images.githubusercontent.com/113164756/196459894-d6b45d3d-ae84-4eab-8198-ef3b4c93ec42.jpg)
+![knicks](https://user-images.githubusercontent.com/113164756/196459901-5f6e5297-ee6c-464a-9bee-0b52eae3c168.png)
+![hawks-vs-bucks](https://user-images.githubusercontent.com/113164756/196459913-97a2cac6-4b90-40fc-b507-efe4d19f9be2.jpg)
+![hawks](https://user-images.githubusercontent.com/113164756/196459917-94b5ed88-1826-4cce-bfbf-93545b5a7472.png)
+![bucks-vs-grizzlies](https://user-images.githubusercontent.com/113164756/196459923-25cd30ae-aec9-44b0-b957-51358a6b4384.jpg)
+![bucks](https://user-images.githubusercontent.com/113164756/196459944-2d383dbd-2644-415a-9c8c-10bd413f59dc.png)
+![76ers](https://user-images.githubusercontent.com/113164756/196459946-02599b0a-5e11-4967-8326-930544d6c19d.png)
